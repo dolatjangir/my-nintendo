@@ -291,6 +291,474 @@
         </div>
       </div>
     </div>
+    <!-- page-8 -->
+     <div class="pt-8 pb-4 sm:mx-4 xl:pl-8 3xl:pl-0 3xl:mx-32">
+      <h2 class="mb-4 xl:text-2xl xl:font-semibold">More like this</h2>
+      <div class="flex sm:w-[288px] md:w-[343px] lg:w-[393px] xl:w-[704px] 2xl:w-[960px] 3xl:w-[1180px]  overflow-scroll">
+      <!-- 1 -->
+      <div class="w-[208px]  rounded-xl border border-neutral-300 my-4  mr-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 2 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 3 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 4 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 5 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 6 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 7 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 8 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 9 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 10 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 11 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 12 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 13 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 14 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 15 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+       <!-- 16 -->
+      <div class="w-[208px] rounded-xl border border-neutral-300 my-4  mx-3">
+        <div class="">
+          <div class="w-[208px] rounded-t-xl">
+            <img class="sm:w-[206px] sm:h-[116px]" loading="lazy" src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/software/switch/70010000004651/a52346fa3eeb45c7ccd23985e659a21df452a802bd0b105f666ab6231fd468ab"/>
+          </div>
+          <div class=" w-[206px]  border ">
+          <div class="pt-4 px-2">
+            <div class="mb-2 w-[190px]">
+            <p>My Time at Portia</p>
+            <p>4/16/19</p></div>
+          </div>
+          <p class="mb-2 ml-1">$29.99</p>
+          <ul class="flex justify-between items-end mb-4">
+           <li class="text-xs text-neutral-900 ml-1 border-l-2 border-red-600  h-4  tracking-tighter flex flex-row justify-between pl-1">Nintendo Switch</li>
+          <li><span class="text-red-600 text-xl font-extrabold px-4 py-4"><i class="fa-regular fa-heart"></i></span></li>
+        </ul>
+            </div>
+          </div>
+      </div>
+    
+      </div>
+     </div>
+     <!-- page-9 -->
+      <div class="py-8 mx-4 text-xs tracking-tighter font-semibold xl:font-semibold xl:text-sm 3xl:mx-32">
+        <p class="pb-2">WARNING: If you have epilepsy or have had seizures or other unusual reactions to flashing lights or patterns, consult a doctor before playing video games. All users should read the Health and Safety Information available in the system settings before using this software.</p>
+        <p>Nintendo Switch Online membership (sold separately) and Nintendo Account required for online play. Not available in all countries. Internet access required for online features. Terms apply. <a>nintendo.com/switch-online</a></p>
+        <p class="py-2">Stardew Valley © ConcernedApe LLC 2016-2020. All rights reserved.</p>
+      </div>
+      <!-- page-10 -->
+       <div class="mt-12 sm:w-screen bg-[#CC0000] px-4 py-8 ">
+        <div class="sm:w-[288px] md:w-[343px] lg:w-[393px] xl:w-[736px] 2xl:w-[992px] 3xl:w-[1320px] h-[110.2px]   text-white flex sm:flex-col xl:flex-row sm:items-center  sm:justify-between">
+          <svg class="3xl:ml-6" viewBox="0 0 97 24" xmlns="http://www.w3.org/2000/svg" width="195" role="presentation" alt="" data-testid="NintendoRacetrackLogoIcon" size="195" color="currentColor"><path d="M17.945 14.157l-4.85-7.838H9.609V17.59h3.486V9.752l4.85 7.838h3.456V6.32h-3.486l.03 7.837zm27.554-4.04V8.993H43.68v-1.52h-3.395v1.52h-1.849v1.124h1.85v7.473h3.394v-7.473h1.82zM23.341 17.56h3.364v-7.474h-3.364v7.474zm0-8.932h3.395V6.319H23.34v2.309zm59.17.942c-2.728 0-4.941 1.883-4.941 4.192s2.213 4.193 4.94 4.193c2.729 0 4.942-1.884 4.942-4.193 0-2.309-2.213-4.192-4.941-4.192zm1.364 5.772c0 1.185-.698 1.67-1.364 1.67-.667 0-1.395-.485-1.395-1.67v-3.16c0-1.184.697-1.67 1.395-1.67.666 0 1.364.486 1.364 1.67v3.16zm-10.73-4.891c-.547-.304-1.123-.608-1.91-.669-2.426-.212-4.305 1.945-4.305 3.92 0 2.612 2 3.554 2.304 3.706 1.152.516 2.607.547 3.88-.274v.426h3.334V6.32h-3.334c.03 0 .03 2.4.03 4.13zm.03 3.342v1.336c0 1.155-.789 1.458-1.334 1.458-.546 0-1.334-.303-1.334-1.458v-2.673c0-1.155.788-1.458 1.334-1.458.515 0 1.333.303 1.333 1.458v1.337zM34.616 9.752c-1.122.03-2.031.516-2.698 1.124v-.79h-3.365v7.474h3.365v-4.922c0-.638.697-1.367 1.607-1.367.909 0 1.546.73 1.546 1.367v4.922h3.364v-4.071c0-2.947-2.546-3.798-3.82-3.737zm27.433 0a4.075 4.075 0 0 0-2.698 1.124v-.79h-3.365v7.474h3.365v-4.922c0-.638.697-1.367 1.606-1.367.91 0 1.546.73 1.546 1.367v4.922h3.365v-4.071c0-2.947-2.546-3.798-3.82-3.737zm-7.063 4.101c0-2.309-2.243-4.253-4.971-4.253-2.759 0-4.972 1.884-4.972 4.193 0 2.308 2.213 4.192 4.972 4.192 2.273 0 4.213-1.306 4.789-3.068H51.44v.455c0 1.367-.91 1.671-1.394 1.671-.515 0-1.425-.304-1.425-1.67v-1.55l6.366.03zm-6.123-2.643a1.391 1.391 0 0 1 1.182-.668c.455 0 .91.213 1.182.668.212.365.212.82.212 1.458H48.62c0-.637.03-1.063.243-1.458zm39.921-3.493c0-.365-.272-.547-.818-.547h-.758v1.914h.455v-.79h.242l.364.79h.515l-.424-.851c.273-.091.424-.273.424-.516zm-.879.273h-.242v-.547h.212c.273 0 .424.091.424.274 0 .212-.12.273-.394.273zm.03-1.58c-.94 0-1.727.79-1.727 1.732s.788 1.732 1.728 1.732 1.727-.79 1.727-1.732a1.73 1.73 0 0 0-1.727-1.732zm0 3.13a1.413 1.413 0 0 1-1.394-1.398c0-.76.637-1.398 1.395-1.398.757 0 1.394.638 1.394 1.398 0 .76-.637 1.397-1.394 1.397zM84.148 0H12.64C5.062-.03 0 5.438 0 11.97c0 6.53 5.062 11.939 12.67 11.939h71.508c7.608 0 12.67-5.408 12.67-11.94C96.818 5.44 91.726 0 84.148 0zm-.03 20.993H12.671c-6.033.03-9.7-4.041-9.7-9.023 0-4.983 3.698-8.993 9.7-9.023h71.446c6.002 0 9.7 4.04 9.7 9.023 0 4.982-3.668 9.023-9.7 9.023z" fill="currentColor"></path></svg>
+          <ul class="flex w-[288px] text-3xl justify-around">
+            <li class=""><i class="fa-brands fa-facebook"></i></li>
+          <li class=""><i class="fa-brands fa-instagram"></i></li>
+          <li class=""><i class="fa-brands fa-instagram"></i></li>
+          <li class=""><i class="fa-brands fa-youtube"></i></li>
+        </ul>
+        </div>
+       </div>
+       <!-- page-11 -->
+        <div class="px-4 py-8">
+            <div class="my-4  xl:grid xl:grid-cols-3 3xl:grid-cols-6">
+               <!-- 1 -->
+              <div class="sm:w-[288px] xl:w-[248px] text-semibold pl-6 ">
+               
+                <div class="sm:w-[225px]  mb-8 text-md xl:text-xl font-semibold  border-l border-neutral-200">
+                  <div class="pl-6">
+                   <h2 class="mb-[18px]">About Nintendo</h2>
+                  <ul class="text-[#CC0000] text-xs  2xl:text-md">
+                    <li class="mb-2">Careers</li>
+                    <li class="mb-2 ">Corporate Social Responsibility</li>
+                  </ul></div>
+                </div> </div>
+                 <!-- 2 -->
+                 <div class="sm:w-[288px] xl:w-[248px]  text-semibold pl-6 ">
+                 <div class="sm:w-[225px]  mb-8 text-md font-semibold  border-l border-neutral-200">
+                  <div class="pl-6">
+                   <h2 class="mb-[18px]">Shop</h2>
+                  <ul class="text-[#CC0000] text-xs 2xl:text-md">
+                    <li class="mb-2">Games</li>
+                    <li class="mb-2 ">Hardware</li>
+                    <li class="mb-2 ">Merchandise</li>
+                    <li  class="mb-2 ">Sales & deals</li>
+                    <li  class="mb-2 ">Exclusives</li>
+                    <li class="mb-2">Online service</li>
+                    <li class="mb-2">Nintendo NY store</li>
+                  </ul></div>
+                </div></div>
+                <!-- 3 -->
+                <div class="sm:w-[288px]  xl:w-[248px] text-semibold pl-6 ">
+                <div class="sm:w-[225px]  mb-8 text-md font-semibold  border-l border-neutral-200">
+                  <div class="pl-6">
+                   <h2 class="mb-[18px]">Orders</h2>
+                  <ul class="text-[#CC0000] text-xs 2xl:text-md">
+                    <li class="mb-2">Order details</li>
+                    <li class="mb-2 ">Shipping info</li>
+                    <li class="mb-2 ">Returns & exchanges</li>
+                    <li  class="mb-2 ">FAQ</li>
+                  </ul></div>
+                </div></div>
+                <!--  4-->
+                  <!--  xl:w-[320px] 3xl:w-[230px] 
+                    xl:w-[295px] 3xl:w-[230px] -->
+                <div class="sm:w-[288px] xl:w-[248px] text-semibold pl-6 ">
+                <div class="sm:w-[225px]  mb-8 text-md font-semibold  border-l border-neutral-200">
+                  <div class="pl-6">
+                   <h2 class="mb-[18px]">Support</h2>
+                  <ul class="text-[#CC0000] text-xs 2xl:text-md">
+                    <li class="mb-2">nintatendo switch</li>
+                    <li class="mb-2 ">Nintendo Account</li>
+                    <li class="mb-2 ">Other Systems</li>
+                    <li  class="mb-2 ">Repairs</li>
+                    <li  class="mb-2 ">Nintendo product recycling</li>
+                    <li  class="mb-2 ">Warranty</li>
+                    <li  class="mb-2 ">Licensed product information</li>
+                  </ul></div>
+                </div></div>
+                <!-- 5 -->
+                <div class="sm:w-[288px] xl:w-[248px] text-semibold pl-6 ">
+                <div class="sm:w-[225px]  mb-8 text-md font-semibold  border-l border-neutral-200">
+                  <div class="pl-6">
+                   <h2 class="mb-[18px]">Parents</h2>
+                  <ul class="text-[#CC0000] text-xs 2xl:text-md">
+                    <li class="mb-2">Info for parents</li>
+                    <li class="mb-2 ">Parental controls</li>
+                  </ul></div>
+                </div></div>
+                 <!-- 6 -->
+                 <div class="sm:w-[288px] xl:w-[248px]  text-semibold pl-6 ">
+                 <div class="sm:w-[225px]  mb-8 text-md font-semibold  border-l border-neutral-200">
+                  <div class="pl-6">
+                   <h2 class="mb-[18px]">Privacy</h2>
+                  <ul class="text-[#CC0000] text-xs 2xl:text-md">
+                    <li class="mb-2">Privacy policy</li>
+                    <li class="mb-2 ">Cookies and interest-based ads</li>
+                  </ul></div>
+                </div></div>
+                <!-- 7 -->
+                <div class="sm:w-[288px] xl:w-[248px]  text-semibold pl-6 ">
+                <div class="sm:w-[225px]  mb-8 text-md font-semibold  border-l border-neutral-200">
+                  <div class="pl-6">
+                   <h2 class="mb-[18px]">Community</h2>
+                  <ul class="text-[#CC0000] text-xs 2xl:text-md">
+                    <li class="mb-2">Community guidelines</li>
+                    <li class="mb-2 ">Online safety principles</li>
+                  </ul></div>
+                </div></div>
+                 <!-- 8 -->
+                 <div class="sm:w-[288px] xl:w-[248px]  text-semibold pl-6 ">
+                 <div class="sm:w-[225px]  mb-8 text-md font-semibold  border-l border-neutral-200">
+                  <div class="pl-6">
+                   <h2 class="mb-[18px]">Documents & policies</h2>
+                  <ul class="text-[#CC0000] text-xs 2xl:text-md">
+                    <li class="mb-2">Health & safety precautions</li>
+                    <li class="mb-2 ">Wireless regulatory info</li>
+                    <li class="mb-2 ">Supply chain transparency</li>
+                  </ul></div>
+                </div></div>
+             
+            </div>
+        </div>
+        <!-- page-12 -->
+         <div class="my-4 flex justify-center 3xl:justify-end 3xl:mr-6">
+          <div class="w-[62px] h-[84px] border-2 border-black"></div>
+         </div>
+         <!-- page-13 -->
+          <div class="bg-[#242424]">
+          <div class="px-4 pt-8 pb-28 3xl:pb-0 text-white flex flex-col justify-center 3xl:flex-row items-center text-xs">
+            <div class="sm:w-[220px] md:w-[280px] lg:w-[358px]  xl:w-[600px] 3xl:w-[800px] 3xl:flex-row 3xl:justify-normal flex flex-col items-center justify-center pb-7">
+            <p>© Nintendo. </p>
+            <p>Games are property of their respective owners. </p>
+            <p>Nintendo of America Inc. </p>
+            <p>Headquarters are in Redmond, Washington, USA</p></div>
+            <div class="w-[280px] 3xl:pb-7">
+              <ul class="flex flex-row justify-between">
+                <li>Contact us</li>
+                <li>Website feedback</li>
+                <li>Terms of Use</li>
+              </ul>
+            </div>
+            <div class="3xl:pb-7 3xl:pl-20 3xl:block sm:hidden">english united state</div>
+          </div></div>
 </template>
 <script>
 </script>
